@@ -1,0 +1,7 @@
+{
+  "name": "AtosCare Surgical AI",
+  "description": "AI Voice Bot for Pre-Operative & Post-Operative Patient Education",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
